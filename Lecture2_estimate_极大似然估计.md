@@ -60,4 +60,4 @@ glk=glk + 0.5*(lnht + ept^2/sig2t) #累计似然函数
 glk
 }
 ```
-[R包分类]（https://www.zhihu.com/question/62747478）
+[R包分类](https://www.zhihu.com/question/62747478)
